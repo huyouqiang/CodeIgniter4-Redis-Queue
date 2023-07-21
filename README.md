@@ -99,3 +99,7 @@ startsecs=3
 #####  my blog
 
 http://xiaohu365.com
+
+#####  ci4 php-cli doc
+
+https://codeigniter.org.cn/user_guide/cli/cli.html

@@ -98,7 +98,7 @@ startsecs=3
 
 #####  my blog
 
-http://xiaohu365.com
+https://hutc.top
 
 #####  ci4 php-cli doc
 
